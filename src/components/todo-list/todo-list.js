@@ -1,7 +1,7 @@
 import React from 'react';
 
 import TodoListItem from '../todo-list-item';
-import './todo-list.css'
+import '../todo-list/todo-list.css';
 
 const TodoList = ({ todos, onDeleted, onToggleImportant, onToggleDone }) => {
 

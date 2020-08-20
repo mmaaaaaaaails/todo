@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
-import './item-add-form.css';
+import '../item-add-form/item-add-form.css';
+
 
 export default class ItemAddForm extends Component {
 
